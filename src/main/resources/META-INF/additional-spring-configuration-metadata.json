@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "sftp.password",
+      "type": "java.lang.String",
+      "description": "Description for sftp.password."
+    },
+    {
+      "name": "sftp.username",
+      "type": "java.lang.String",
+      "description": "Description for sftp.username."
+    },
+    {
+      "name": "sftp.host",
+      "type": "java.lang.String",
+      "description": "Description for sftp.host."
+    },
+    {
+      "name": "sftp.port",
+      "type": "java.lang.String",
+      "description": "Description for sftp.port."
+    }
+  ] }
